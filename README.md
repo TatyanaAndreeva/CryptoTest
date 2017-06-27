@@ -1,5 +1,5 @@
 # CryptoTest
-Selenium test for verifying Bitcoin profit per month calculation https://www.cryptocompare.com/mining/calculator/btc to correct 
+Selenium test for verifying Bitcoin profit per month calculation https://www.cryptocompare.com/mining/calculator/btc. 
 Generates random unit, hashing power, power consumption and cost per KW/h. Gets current bitcoin calculation rate from web form.
 
 # Requirements
